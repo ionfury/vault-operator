@@ -1,0 +1,6 @@
+resources:
+- base/crds/etcd_v1beta1_backup.yaml
+- base/crds/etcd_v1beta1_cluster.yaml
+- base/crds/etcd_v1beta1_restore.yaml
+- base/crds/vault_v1beta1_service.yaml
+- base/operator/namespace.yaml
