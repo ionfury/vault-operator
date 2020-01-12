@@ -1,0 +1,6 @@
+bases:
+- ../../base
+
+namespace: vault
+
+namePrefix: vault-operator-
