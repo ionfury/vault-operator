@@ -2,3 +2,6 @@ namespace: vault
 
 resources:
 - operator/deployment.yaml
+- rbac/role_binding.yaml
+- rbac/role.yaml
+- rbac/service_account.yaml
